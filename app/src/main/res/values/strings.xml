@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">QuizFinalProject</string>
+
+    <!-- Hint text display in the empty field for the answer prompt [CHAR LIMIT=20] -->
+    <string name="answer">Answer</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=40] -->
+    <string name="toppings">Toppings</string>
+
+    <!-- If the player chooses Answer A. Kent, Joe, Madge (correct) [CHAR LIMIT=40] -->
+    <string name="answer_a">A. Kent, Joe, Madge</string>
+
+    <!-- If the player chooses Answer B. Michael, Brandon, Roy [CHAR LIMIT=50] -->
+    <string name="answer_b">B. Michael, Brandon, Roy</string>
+
+    <!-- If the player chooses Answer C. Evan, Carl, Ruth [CHAR LIMIT=50] -->
+    <string name="answer_c">C. Evan, Carl, Ruth </string>
+
+    <!-- If the player chooses D. Nate, Darryl, Madge [CHAR LIMIT=50] -->
+    <string name="answer_d">D. Nate, Darryl, Madge</string>
+
+
+    <!-- Edit text entry answer, "neck" (correct)[CHAR LIMIT=50] -->
+    <string name="answer_2">neck</string>
+
+    <!-- If the player chooses answer A. Creed [CHAR LIMIT=20] -->
+
+    <string name="answer_3a">A. Creed</string>
+
+    <!-- If the player chooses answer B. Dwight [CHAR LIMIT=20] -->
+
+    <string name="answer_3b">B. Dwight</string>
+
+    <!-- If the player chooses answer C. Meredith [CHAR LIMIT=20] -->
+
+    <string name="answer_3c">C. Meredith</string>
+
+    <!-- If the player chooses answer D. Michael [CHAR LIMIT=40] -->
+
+    <string name="answer_3d">D. Michael</string>
+
+
+    <!-- If the player chooses Answer A. Assistant (to the) Regional Manager, Dunder Mifflen Scranton [CHAR LIMIT=40] -->
+    <string name="answer_4a">A. Assistant (to the) Regional Manager, Dunder Mifflen Scranton</string>
+
+    <!-- If the player chooses Answer B. tall, beets [CHAR LIMIT=50] -->
+    <string name="answer_4b">B. tall, beets</string>
+
+    <!-- If the player chooses Answer C. burly, built for warehouse [CHAR LIMIT=50] -->
+    <string name="answer_4c">C. burly, built for warehouse  </string>
+
+    <!-- If the player chooses D. Dog-like obedience to authority [CHAR LIMIT=50] -->
+    <string name="answer_4d">D. Dog-like obedience to authority</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="quantity">Quantity</string>
+
+    <!-- First quiz question. [CHAR LIMIT=150] -->
+    <string name="question_one">1. In the episode "\"Branch Wars\"", what are the names written on Michael, Dwight, and Jim's uniforms respectively? </string>
+
+    <!-- Second quiz question. [CHAR LIMIT=150] -->
+    <string name="question_two">2. Finish this quote, "\"Nostalgia is truly one of the greatest human weaknesses...second only to the ______.\"" </string>
+
+    <!-- Third quiz question. [CHAR LIMIT=150] -->
+    <string name="question_three">3. In S3E10, "\"A Benihana Christmas\"",  Who takes gifts OUT of the toy donation box? (select all that apply)  </string>
+
+    <!-- Fourth quiz question. [CHAR LIMIT=150] -->
+    <string name="question_four">4. In S5E22 "\"Heavy Competition\"": What does Dwight find out Michael wrote on the back of his Rolodex entry for "\"Schrute, Dwight\""?   </string>
+
+
+
+    <!-- Thank you message for the order summary. [CHAR LIMIT=NONE] -->
+    <string name="thank_you">Thank you!</string>
+
+</resources>
