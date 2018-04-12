@@ -60,16 +60,16 @@
     <string name="quantity">Quantity</string>
 
     <!-- First quiz question. [CHAR LIMIT=150] -->
-    <string name="question_one">1. In the episode "\"Branch Wars\"", what are the names written on Michael, Dwight, and Jim's uniforms respectively? </string>
+    <string name="question_1">1. In the episode "\"Branch Wars\"", what are the names written on Michael, Dwight, and Jim's uniforms respectively? </string>
 
     <!-- Second quiz question. [CHAR LIMIT=150] -->
-    <string name="question_two">2. Finish this quote, "\"Nostalgia is truly one of the greatest human weaknesses...second only to the ______.\"" </string>
+    <string name="question_2">2. Finish this quote, "\"Nostalgia is truly one of the greatest human weaknesses...second only to the ______.\"" </string>
 
     <!-- Third quiz question. [CHAR LIMIT=150] -->
-    <string name="question_three">3. In S3E10, "\"A Benihana Christmas\"",  Who takes gifts OUT of the toy donation box? (select all that apply)  </string>
+    <string name="question_3">3. In S3E10, "\"A Benihana Christmas\"",  Who takes gifts OUT of the toy donation box? (select all that apply)  </string>
 
     <!-- Fourth quiz question. [CHAR LIMIT=150] -->
-    <string name="question_four">4. In S5E22 "\"Heavy Competition\"": What does Dwight find out Michael wrote on the back of his Rolodex entry for "\"Schrute, Dwight\""?   </string>
+    <string name="question_4">4. In S5E22 "\"Heavy Competition\"": What does Dwight find out Michael wrote on the back of his Rolodex entry for "\"Schrute, Dwight\""?   </string>
 
 
 
